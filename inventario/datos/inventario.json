@@ -1,0 +1,14 @@
+{
+    "jabon": {
+        "cantidad": 99,
+        "precio": 3000.0
+    },
+    "arroz": {
+        "cantidad": 10,
+        "precio": 5000.0
+    },
+    "llanta": {
+        "cantidad": 20,
+        "precio": 80000
+    }
+}
